@@ -1,6 +1,6 @@
 # Projet Listechainee
 
-Ce projet a été réalisé par Ys et Mathieu. Nous avons trouvé notre inspiration à partir du projet de notre professeur rcoscali sur GitHub. Ce projet consiste en la manipulation de listes chaînées en langage C.
+Ce projet a été réalisé par Ys, Erwan Laniray et Mathieu Hacquard. Nous avons trouvé notre inspiration à partir du projet de notre professeur rcoscali sur GitHub. Ce projet consiste en la manipulation de listes chaînées en langage C.
 
 # Difficultés Rencontrées
 Nous avons rencontré plusieurs difficultés tout au long du projet. L'un des principaux obstacles était lié à la réinitialisation automatique de notre liste curlist après l'utilisation d'une fonctionnalité pour manipuler les listes chaînées. Nous avons passé plusieurs jours à essayer de résoudre ce problème sans succès.
