@@ -29,16 +29,16 @@ Ce module nous a offert une expérience enrichissante qui a contribué à notre 
 # Utilisation
 
 - Cloner le repo:
-  git clone https://github.com/Scripty1214/listechaineeProject.git
+git clone https://github.com/Scripty1214/listechaineeProject.git
 
 - Aller dans le dosser puis entrer dans le dossier build:
-  cd listechaineeProject/build
+cd listechaineeProject/build
 
-- Executer Ninja
-  ninja
+- Executer Ninja:
+ninja
 
-- Executer le projet suivi de l'option demandée
-  ./listechainee -h
+- Executer le projet suivi de l'option demandée:
+./listechainee -h
 
 
 
