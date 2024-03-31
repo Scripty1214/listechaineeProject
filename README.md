@@ -26,6 +26,19 @@ Nous avons également rencontré des petits problèmes par-ci par-là dans notre
 
 Ce module nous a offert une expérience enrichissante qui a contribué à notre développement professionnel en tant que programmeurs en herbe. Notre programme peut surement etre optimisé voir amélioré mais nous sommes fier d'avoir fait tout cela meme si notre code est un peu bancal.
 
+# Utilisation
+
+- Cloner le repo:
+  git clone https://github.com/Scripty1214/listechaineeProject.git
+
+- Aller dans le dosser puis entrer dans le dossier build:
+  cd listechaineeProject/build
+
+- Executer Ninja
+  ninja
+
+- Executer le projet suivi de l'option demandée
+  ./listechainee -h
 
 
 
